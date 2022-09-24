@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "tweet buddy",
+      "invocationName": "crown news",
       "intents": [
         {
           "name": "AMAZON.FallbackIntent",
@@ -63,102 +63,172 @@
           "values": [
             {
               "name": {
-                "value": "monday motivation"
+                "value": "Queen Mother "
               }
             },
             {
               "name": {
-                "value": "mandalorian"
+                "value": "United Kingdom"
               }
             },
             {
               "name": {
-                "value": "caturday"
+                "value": "Balmoral Castle"
               }
             },
             {
               "name": {
-                "value": "seattle seahawks"
+                "value": "Commonwealth"
               }
             },
             {
               "name": {
-                "value": "baltimore ravens"
+                "value": "monarch"
               }
             },
             {
               "name": {
-                "value": "uswnt"
+                "value": "British royal family"
               }
             },
             {
               "name": {
-                "value": "usmnt"
+                "value": "British monarchs' family tree "
               }
             },
             {
               "name": {
-                "value": "kobe bryant"
+                "value": "King Charles III"
               }
             },
             {
               "name": {
-                "value": "lamar jackson"
+                "value": "King of the United Kingdom"
               }
             },
             {
               "name": {
-                "value": "lebron james"
+                "value": "Princes of Wales"
               }
             },
             {
               "name": {
-                "value": "redskins"
+                "value": "Prince of Wales"
               }
             },
             {
               "name": {
-                "value": "seahawks"
+                "value": "Prince William"
               }
             },
             {
               "name": {
-                "value": "ravens"
+                "value": "Prince Harry"
               }
             },
             {
               "name": {
-                "value": "khabib"
+                "value": "Duke of Sussex"
               }
             },
             {
               "name": {
-                "value": "ufc"
+                "value": "Windsor castle"
               }
             },
             {
               "name": {
-                "value": "seattle"
+                "value": "Duke of Edinburgh"
               }
             },
             {
               "name": {
-                "value": "bellevue"
+                "value": "Royal Navy"
               }
             },
             {
               "name": {
-                "value": "mumbai indians"
+                "value": "Prince Philip"
               }
             },
             {
               "name": {
-                "value": "democratic debate"
+                "value": "Camilla Parker Bowles"
               }
             },
             {
               "name": {
-                "value": "dem debate"
+                "value": "Archbishop of Canterbury"
+              }
+            },
+            {
+              "name": {
+                "value": "Westminster Abbey"
+              }
+            },
+            {
+              "name": {
+                "value": "The Royal Family"
+              }
+            },
+            {
+              "name": {
+                "value": "Queen Elizabeth II"
+              }
+            },
+            {
+              "name": {
+                "value": "Meghan Markle"
+              }
+            },
+            {
+              "name": {
+                "value": "Duchess of Sussex"
+              }
+            },
+            {
+              "name": {
+                "value": "Princess Diana"
+              }
+            },
+            {
+              "name": {
+                "value": "Longest Serving Monarch"
+              }
+            },
+            {
+              "name": {
+                "value": "Colonial Masters"
+              }
+            },
+            {
+              "name": {
+                "value": "Slave Trade"
+              }
+            },
+            {
+              "name": {
+                "value": "Independence"
+              }
+            },
+            {
+              "name": {
+                "value": "What is commonwealth"
+              }
+            },
+            {
+              "name": {
+                "value": "Freedom Fighters"
+              }
+            },
+            {
+              "name": {
+                "value": "Dodi Fayed"
+              }
+            },
+            {
+              "name": {
+                "value": "British Empire"
               }
             }
           ]

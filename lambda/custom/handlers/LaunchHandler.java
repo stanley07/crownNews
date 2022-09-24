@@ -24,12 +24,16 @@ public class LaunchHandler implements LaunchRequestHandler {
 
   @Override
   public Optional<Response> handle(HandlerInput handlerInput, LaunchRequest launchRequest) {
-    final String speechText = "Welcome to Tweet Buddy. "
-        + "To hear what's trending in a city, just ask: What's trending in, followed by the city name. "
-        + "To hear Tweets about a topic, just say: Give me Tweets about, followed by topic.";
+    final String speechText = "Hello, royal family! welcome to Crown news. "
+        + "A concise tweeter news feed channel for the royal family. In memory of Her Majesty Queen Elizabeth the second.: "
+        
+              
+        +"To hear what's trending in any city of the world, just ask: What's trending in, followed by the city name. ";        
 
-    final String repromptText = "To hear what's trending in a city, just ask: What's trending in, followed by the city name. "
-        + "To hear Tweets about a topic, just say: Give me Tweets about, followed by topic";
+    final String repromptText = "A consice tweeter news feed channel for the royal family. In memory of Her Majesty Queen Elizabeth the second "
+        
+        +"To hear what's trending in any city of the world, just ask: What's trending in, followed by the city name. ";
+        
 
     // Device supports screen
     if (SkillData.supportsAPL(handlerInput)) {

@@ -13,10 +13,10 @@ import java.util.List;
 
 public class TwitterService {
   //FIXME replace the keys below
-  private static final String API_KEY = "";
-  private static final String API_SECRET = "";
-  private static final String ACCESS_TOKEN = "";
-  private static final String ACCESS_TOKEN_SECRET = "";
+  private static final String API_KEY = "FSiGeZXv3FPBzKOkh1Tu9rit4";
+  private static final String API_SECRET = "oR3g7SPCaRlLCsiosd6tkSVk9k6Ne5UZIe5TBbyKmahQAlnpqZ";
+  private static final String ACCESS_TOKEN = "1558396010921185280-xKYXnHmNt37o9JxiRLVKxF9Lf7Wewp";
+  private static final String ACCESS_TOKEN_SECRET = "sPNUWsBznxaUzI9WRONkJPlT1fXy7YpiXr7pjMds6ci60";
   private Twitter twitter;
 
   public TwitterService() {
